@@ -15,13 +15,16 @@ Within this organization, several repositories are publicly available:
 ### Fraudulent site [audiveris.com](https://audiveris.com/)!
 
 ```diff
-- The site https://audiveris.com  (note the `.com` instead of the `.org` extension) seems to be a fraudulent site.
+- The site https://audiveris.com  (note the `.com` extension)
+-  seems to be a fraudulent site.
 ```
 
 ![](./assets/images/audiveris.com.png)
 
 ```diff
-- The site is aesthetically pleasing and looks like an advertisement for Audiveris software.
-- However, users report that links redirect to pages dedicated to cryptocurrencies, sports betting, and other online distractions.
+- The site is aesthetically pleasing
+-  and looks like an advertisement for Audiveris software.
+- However, users report that links redirect to pages
+-  dedicated to cryptocurrencies, sports betting, etc.
 - It has all the hallmarks of a phishing site…
 ```
