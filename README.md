@@ -12,19 +12,19 @@ Within this organization, several repositories are publicly available:
 | [audiveris.github.io](https://github.com/Audiveris/audiveris.github.io) | The page you are reading |
 
 # WARNING
-### Fraudulent site [audiveris.com](https://audiveris.com/)!
+### Beware of sites [audiveris.com](https://audiveris.com/) and [audiveris.net](https://audiveris.net/)!
 
 ```diff
-- The site https://audiveris.com  (note the `.com` extension)
--  seems to be a fraudulent site.
+- The sites https://audiveris.com https://audiveris.net  (note the `.com` and `.net` extensions)
+-  have nothing to do with Audiveris.
+- They are reported to be high-risk websites, flagged by online security scanners as potential scams.
 ```
-
-![](./assets/images/audiveris.com.png)
+| audiveris.com | audiveris.net |
+| :---:         | :---:         |
+|![](https://github.com/Audiveris/audiveris.github.io/blob/master/assets/images/audiveris.com.png)|![](https://github.com/Audiveris/audiveris.github.io/blob/master/assets/images/audiveris.net.png)|
 
 ```diff
-- The site is aesthetically pleasing
--  and looks like an advertisement for Audiveris software.
-- However, users report that links redirect to pages
--  dedicated to cryptocurrencies, sports betting, etc.
-- It has all the hallmarks of a phishing site…
+- These twin sites are aesthetically pleasing and look like advertisement for the Audiveris software.
+- However, users report that links redirect to pages dedicated to cryptocurrencies, sports betting, etc.
+- They have all the hallmarks of phishing sites…
 ```
